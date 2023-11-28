@@ -6,7 +6,7 @@ const Footer = () => {
             <footer id="footer">
                 <div className="container">
                     <a
-                        href="https://github.com/allwinmel/react-shopping-cart"
+                        href="https://github.com/allwinmel/react-shopping-cart-main"
                         className="repo_link"
                         target="_blank"
                         rel="noreferrer"
